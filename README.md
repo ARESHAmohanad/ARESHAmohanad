@@ -1,9 +1,9 @@
-# 👋 Olá, eu sou Mohanad Aresha!
 
-🎓 Estudante de Sistemas de Informação | 🛡️ Entusiasta em Cibersegurança e Pentest  
-💻 Desenvolvedor de ferramentas para segurança ofensiva, automação e análise de vulnerabilidades.
+### 👋 Hello, I'm Mohanad Aresha!
 
----
+🎓 Information Systems Student | 🛡️ Cybersecurity & Pentest Enthusiast  
+💻 Developer of tools for offensive security, automation, and vulnerability analysis.
+
 
 ### KNOW MORE ABOUT ME>>>>
 <p align="center">
@@ -12,15 +12,14 @@
   
 <p align="center">
 <a href="https://www.instagram.com/aresha_mohanad" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href="https://discord.gg/443muh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href = "mailto:mhndrysht2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mohanad-aresha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 <p align="center">
 
 ---
 
-## 🛠️ Habilidades Técnicas
+### 🛠️ Technical Skills
 
 - **Cibersegurança:** Pentest, CTFs, fuzzing, brute-force, engenharia reversa.
 - **Programação:** Python, Bash, HTML, CSS.
