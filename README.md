@@ -1,5 +1,4 @@
-
-### 👋 Hello, I'm Mohanad Aresha!
+👋 Hello, I'm Mohanad Aresha!
 
 🎓 Information Systems Student | 🛡️ Cybersecurity & Pentest Enthusiast  
 💻 Developer of tools for offensive security, automation, and vulnerability analysis.
@@ -18,6 +17,32 @@
 <p align="center">
 
 ---
+
+
+<p align="center">
+<a href="https://github.com/ARESHAmohanad/Mu-Auto-Attack"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=ARESHAmohanad&repo=Mu-Auto-Attack&theme=radical"></a>
+<a href="https://github.com/ARESHAmohanad/Gerador-de-senhas"><img title="mrphish" src="https://github-readme-stats.vercel.app/api/pin/?username=ARESHAmohanad&repo=Gerador-de-senhas&theme=highcontrast"></a>
+<a href="https://github.com/ARESHAmohanad/whatspoof"><img title="kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=ARESHAmohanad&repo=whatspoof&theme=vision-friendly-dark"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/ARESHAmohanad"><img title="noob-hackers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARESHAmohanad&layout=compact"></a>
+</p>
+
+
+
+
+
+
+
+### 🐍 Watch my GitHub contributions snake
+
+![snake gif](https://github.com/ARESHAmohanad/ARESHAmohanad/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
 
 ### 🛠️ Technical Skills
 
