@@ -5,9 +5,18 @@
 
 ---
 
-## 🧠 Sobre mim
+### KNOW MORE ABOUT ME>>>>
+<p align="center">
+<a href="https://github.com/ARESHAmohanad"><img title="ARESHAmohanad" src="https://github-readme-stats.vercel.app/api?username=ARESHAmohanad&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 
-Sou apaixonado por tecnologia e segurança da informação. Trabalho com desenvolvimento de scripts e ferramentas voltadas à automação de testes de segurança, análise de vulnerabilidades e suporte técnico. Tenho experiência prática com sistemas Linux e Windows, redes, servidores, dispositivos embarcados e muito mais.
+  
+<p align="center">
+<a href="https://www.instagram.com/aresha_mohanad" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href = "mailto:mhndrysht2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mohanad-aresha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<p align="center">
 
 ---
 
