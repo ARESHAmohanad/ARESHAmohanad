@@ -26,18 +26,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/ARESHAmohanad"><img title="noob-hackers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARESHAmohanad&layout=compact"></a>
+<a href="https://github.com/ARESHAmohanad"><img title="ARESHAmohanad" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARESHAmohanad&layout=compact"></a>
 </p>
 
 
-
-
-
-
-
-### 🐍 Watch my GitHub contributions snake
-
-![snake gif](https://github.com/ARESHAmohanad/ARESHAmohanad/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
 
