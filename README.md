@@ -1,5 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hi,+my+name+is+ARESHAmohanad;I'm+a+Cybersecurity+Enthusiast;Welcome+to+my+GitHub+profile!&center=true&width=500&height=50&pause=1000)
 
+
+---
+
 ## 🎓 Information Systems Student | 🛡️ Cybersecurity & Pentest Enthusiast  
 ## 💻 Developer of tools for offensive security, automation, and vulnerability analysis.
 
@@ -11,11 +14,12 @@
   <a href="https://github.com/ARESHAmohanad"><img title="mohanad" src="https://github-readme-stats.vercel.app/api?username=ARESHAmohanad&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
+
+---
+
 <p align="center">
-  <a src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1481926" style='border:none;'></a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/443muh.png" alt="Your Image Badge" />
 </p>
-
-
 
 
 ---
@@ -35,11 +39,7 @@
 <a href="https://github.com/ARESHAmohanad/whatspoof"><img title="kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=ARESHAmohanad&repo=whatspoof&theme=vision-friendly-dark"></a>
 </p>
 
-<p align="center">
-<a href="https://github.com/ARESHAmohanad"><img title="ARESHAmohanad" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARESHAmohanad&layout=compact"></a>
-</p>
-
-
+---
 
 
 <p align="center">
@@ -62,13 +62,22 @@
 </p>
 
 
+---
 
 
-
-
-
-
+<p align="center">
+<a href="https://github.com/ARESHAmohanad"><img title="ARESHAmohanad" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARESHAmohanad&layout=compact"></a>
+</p>
 
 
 ---
+
+
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+
+---
+
+
+
+
