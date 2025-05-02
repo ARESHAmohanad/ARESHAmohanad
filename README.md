@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hi,+my+name+is+ARESHAmohanad;I'm+a+Cybersecurity+Enthusiast;Welcome+to+my+GitHub+profile!&center=true&width=500&height=50&pause=1000)
 
-🎓 Information Systems Student | 🛡️ Cybersecurity & Pentest Enthusiast  
-💻 Developer of tools for offensive security, automation, and vulnerability analysis.
+## 🎓 Information Systems Student | 🛡️ Cybersecurity & Pentest Enthusiast  
+## 💻 Developer of tools for offensive security, automation, and vulnerability analysis.
 
 ---
 
