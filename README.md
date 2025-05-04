@@ -16,13 +16,15 @@
 
 
 ---
-
+## My TryHackMe badge
 <p align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/443muh.png" alt="Your Image Badge" />
 </p>
 
 
 ---
+
+## Contacts
   
 <p align="center">
 <a href="https://www.instagram.com/aresha_mohanad" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -33,6 +35,8 @@
   
 ---
 
+## BEST TOOLS
+
 <p align="center">
 <a href="https://github.com/ARESHAmohanad/Mu-Auto-Attack"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=ARESHAmohanad&repo=Mu-Auto-Attack&theme=radical"></a>
 <a href="https://github.com/ARESHAmohanad/Gerador-de-senhas"><img title="mrphish" src="https://github-readme-stats.vercel.app/api/pin/?username=ARESHAmohanad&repo=Gerador-de-senhas&theme=highcontrast"></a>
@@ -41,6 +45,7 @@
 
 ---
 
+## TECHNICAL QUALIFICATIONS
 
 <p align="center">
   <a href="https://skillicons.dev">
