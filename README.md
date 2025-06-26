@@ -16,15 +16,10 @@
 
 
 
-## 🌐 Plataformas de Cibersegurança
-
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/443muh.png)](https://tryhackme.com/p/443muh)
-
-
 ---
 ## My TryHackMe badge
 <p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/443muh.png" alt="Your Image Badge" />
+<img src="(https://tryhackme-badges.s3.amazonaws.com/443muh.png)](https://tryhackme.com/p/443muh)" />
 </p>
 
 
