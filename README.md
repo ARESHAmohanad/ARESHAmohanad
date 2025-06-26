@@ -18,7 +18,7 @@
 
 ## 🌐 Plataformas de Cibersegurança
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/1481926.png)](https://tryhackme.com/p/1481926)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/443muh.png)](https://tryhackme.com/p/443muh)
 
 
 ---
