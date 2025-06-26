@@ -16,7 +16,9 @@
 
 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1481926" style='border:none;'></iframe>
+## 🌐 Plataformas de Cibersegurança
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/1481926.png)](https://tryhackme.com/p/1481926)
 
 
 ---
