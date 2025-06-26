@@ -18,14 +18,10 @@
 
 ---
 ## My TryHackMe badge
-<p align="center">
-<img src="(https://tryhackme-badges.s3.amazonaws.com/443muh.png)](https://tryhackme.com/p/443muh)" />
-</p>
-
 
 <div align="center">
-  <a href="https://tryhackme.com/p/1481926">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/1481926.png" alt="TryHackMe Badge">
+  <a href="https://tryhackme.com/p/443muh">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/443muh.png" alt="TryHackMe Badge">
   </a>
 </div>
 
