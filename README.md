@@ -20,7 +20,7 @@
 ## My TryHackMe badge
 
 <div align="center">
-  <a href="https://tryhackme.com/p/443muh">
+  <a href="https://tryhackme.com/p/.p">
     <img src="https://tryhackme-badges.s3.amazonaws.com/443muh.png" alt="TryHackMe Badge">
   </a>
 </div>
