@@ -21,15 +21,10 @@
 
 <div align="center">
   <a href="https://tryhackme.com/p/.p">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/443muh.png" alt="TryHackMe Badge">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/.p.png" alt="TryHackMe Badge">
   </a>
 </div>
 
-
-<iframe
-  src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1481926" style='border:none;'>
-  
-</iframe>
 
 
 ---
