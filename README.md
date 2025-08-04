@@ -17,7 +17,7 @@
 
 
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mohanad-aresha" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/mohanad-aresha?trk=profile-badge">Mohanad Aresha</a></div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="mohanad-aresha" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/mohanad-aresha?trk=profile-badge">Mohanad Aresha</a></div>
               
 
 
