@@ -37,8 +37,8 @@
 ## CONTACTS
   
 <p align="center">
-<a href="https://www.instagram.com/aresha_mohanad" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/443muh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/443muh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/m4kt0" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href = "mailto:mhndrysht2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mohanad-aresha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <p align="center">
@@ -51,6 +51,7 @@
 <a href="https://github.com/ARESHAmohanad/Mu-Auto-Attack"><img title="Mu-Auto-Attack" src="https://github-readme-stats.vercel.app/api/pin/?username=ARESHAmohanad&repo=Mu-Auto-Attack&theme=vision-friendly-dark"></a>
 <a href="https://github.com/ARESHAmohanad/Gerador-de-senhas"><img title="Gerador-de-senhas" src="https://github-readme-stats.vercel.app/api/pin/?username=ARESHAmohanad&repo=Gerador-de-senhas&theme=highcontrast"></a>
 <a href="https://github.com/ARESHAmohanad/spoofer"><img title="spoofer" src="https://github-readme-stats.vercel.app/api/pin/?username=ARESHAmohanad&repo=spoofer&theme=radical"></a>
+<a href="https://github.com/ARESHAmohanad/whatspoof"><img title="spoofer" src="https://github-readme-stats.vercel.app/api/pin/?username=ARESHAmohanad&repo=whatspoof&theme=radical"></a>
 </p>
 
 ---
