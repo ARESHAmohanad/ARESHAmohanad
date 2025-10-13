@@ -78,7 +78,27 @@
 </p>
 
 
+
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python"/>
+  <img alt="Shell Script" src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat&logo=gnu-bash"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux"/>
+  <img alt="Burp Suite" src="https://img.shields.io/badge/BurpSuite-ED1C24?style=flat&logo=portswigger"/>
+  <img alt="Nmap" src="https://img.shields.io/badge/Nmap-90C53F?style=flat&logo=nmap"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker"/>
+</p>
+
+- Pentest & Red Team (Nmap, SQLmap, Burp Suite)
+- Reconhecimento e exploração de vulnerabilidades
+- Ambientes Linux (Kali, Parrot OS)
+- Automação em Python & Shell Scripting
+- Virtualização (VirtualBox, VMware) & Plataformas CTF
+
 ---
+
+
+
 
 
 <p align="center">
