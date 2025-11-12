@@ -48,7 +48,7 @@
 ## BEST TOOLS
 
 <p align="center">
-<a href="https://github.com/ARESHAmohanad/BugHunter-AI0"><img title="BugHunter-AI" src="https://github-readme-stats.vercel.app/api/pin/?username=ARESHAmohanad&repo=BugHunter-AI&theme=radical"></a>
+<a href="https://github.com/ARESHAmohanad/BugHunter-AI"><img title="BugHunter-AI" src="https://github-readme-stats.vercel.app/api/pin/?username=ARESHAmohanad&repo=BugHunter-AI&theme=radical"></a>
   
 <a href="https://github.com/ARESHAmohanad/Mu-Auto-Attack"><img title="Mu-Auto-Attack" src="https://github-readme-stats.vercel.app/api/pin/?username=ARESHAmohanad&repo=Mu-Auto-Attack&theme=vision-friendly-dark"></a>
 <a href="https://github.com/ARESHAmohanad/Gerador-de-senhas"><img title="Gerador-de-senhas" src="https://github-readme-stats.vercel.app/api/pin/?username=ARESHAmohanad&repo=Gerador-de-senhas&theme=highcontrast"></a>
